@@ -1,6 +1,6 @@
 # Jquery::Simple::Checkbox::Table::Rails
 
-`jquery.simple-checkbox-table` for Rails.
+[jquery.simple-checkbox-table](https://github.com/toshiyukihina/jquery-simple-checkbox-table) for Rails.
 
 ## Installation
 
